@@ -1,6 +1,6 @@
 In this project;
 
-I design a very basic GUI that use the Model-View-Controller approach for the image processing application.This project also contains instructions to make a basic image editing application in Python.
+I design a very basic GUI that use the Model-View-Controller for the image processing application.This project also contains instructions to make a basic image editing application in Python.
 
 
 ![orijinal_image](https://user-images.githubusercontent.com/80620991/163864308-73d609bc-c76b-4510-9156-4e89f79fe85f.png)
