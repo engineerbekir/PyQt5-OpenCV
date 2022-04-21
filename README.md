@@ -1,4 +1,3 @@
-#ImageProcessing
 In this project;
 
 I design a very basic GUI that use the Model-View-Controller for the image processing application.This project also contains instructions to make a basic image editing application in Python.
